@@ -14,6 +14,8 @@ Learning Node step by step
 
 [koa-static(用于处理静态文件)](https://github.com/koajs/static)
 
+[koa-middlewares](https://github.com/cnpm/koa-middlewares)
+
 ## 参考资料
 [cnnodejs官网](http://cnodejs.org/)
 
